@@ -1,0 +1,14 @@
+{
+  "name": "nodebackendmock",
+  "version": "1.0.0",
+  "description": "backend node app to use for http calls from frontend apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
